@@ -1,0 +1,13 @@
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\bin\Debug\FrameworkAT.dll
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\bin\Debug\FrameworkAT.pdb
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\bin\Debug\BasePageObjectModel.dll
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\bin\Debug\ExcelDataReader.dll
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\bin\Debug\WebDriver.dll
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\bin\Debug\WebDriver.Support.dll
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\bin\Debug\WebDriver.xml
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\bin\Debug\WebDriver.Support.xml
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\obj\Debug\FrameworkAT.csprojResolveAssemblyReference.cache
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\obj\Debug\FrameworkAT.csproj.CoreCompileInputs.cache
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\obj\Debug\FrameworkAT.dll
+C:\Users\javier.altmann\Source\repos\GodRej\FrameworkAT\obj\Debug\FrameworkAT.pdb
